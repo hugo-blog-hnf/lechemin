@@ -63,10 +63,10 @@ params:
     enabled: true # needs to be explicitly set
     title: LeChemin
     subtitle: "Con đường chữa lành – Y học cổ truyền & Yoga"
-    imageUrl: "/images/giraffe.png"
+    imageUrl: /images/giraffe.png
     imageWidth: 228
     imageHeight: 228
-    imageTitle: my image
+    imageTitle: "Giraffe image"
     buttons:
       - name: Gmail
         url: "mailto:phuongruby936@gmail.com"
@@ -123,11 +123,11 @@ menu:
   main:
     - identifier: posts
       name: Posts
-      url: /posts
+      url: "https://lechemin.netlify.app/posts"
       weight: 10
     - identifier: tags
       name: Tags
-      url: /tags
+      url: "https://lechemin.netlify.app/tags"
       weight: 20
 
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
