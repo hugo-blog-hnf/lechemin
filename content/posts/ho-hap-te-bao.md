@@ -1,6 +1,7 @@
 ---
 date: "2025-07-25T23:10:10+07:00"
 title: "Hô hấp tế bào"
+canonicalURL: "https://lechemin.netlify.app/posts/ho-hap-te-bao/"
 ---
 # Hô hấp hiếu khí
 + Đường phân
