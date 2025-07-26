@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on LeChemin</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on LeChemin</description>
+    <generator>Hugo -- 0.148.1</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 25 Jul 2025 23:10:10 +0700</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hô hấp tế bào</title>
+      <link>http://localhost:1313/posts/ho-hap-te-bao/</link>
+      <pubDate>Fri, 25 Jul 2025 23:10:10 +0700</pubDate>
+      <guid>http://localhost:1313/posts/ho-hap-te-bao/</guid>
+      <description>&lt;h1 id=&#34;hô-hấp-hiếu-khí&#34;&gt;Hô hấp hiếu khí&lt;/h1&gt;
+&lt;ul&gt;
+&lt;li&gt;Đường phân
+&lt;ul&gt;
+&lt;li&gt;chuyển glucose thành &lt;strong&gt;2 phân tử pyruvate&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Tạo ra &lt;strong&gt;2 ATP&lt;/strong&gt; và &lt;strong&gt;2 NADH&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Ý nghĩa: Tạo tiền chất pyruvate cho các giai đoạn sau và cung cấp một phần năng lượng dưới dạng ATP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Chu trình Krebs (ở chất nền ti thể)
+&lt;ul&gt;
+&lt;li&gt;Mỗi Pyruvate(3 carbon) được chuyển thành 1 Acetyl-CoA(2 carbon) (1 CO2, 1 NADH) rồi vào chu trình Krebs&lt;/li&gt;
+&lt;li&gt;Mỗi vòng chu trình tạo ra: &lt;strong&gt;3 NADH&lt;/strong&gt;, &lt;strong&gt;1 FADH2&lt;/strong&gt;, &lt;strong&gt;1 ATP&lt;/strong&gt; (tính trên 1 phân tử Acetyl-CoA)&lt;/li&gt;
+&lt;li&gt;Ý nghĩa: Phân giải hoàn toàn Acetyl-CoA thành CO2, sản xuất nhiều phân tử vận chuyển electron (NADH,FADH2) cho giai đoạn
+tiếp theo.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Chuỗi truyền electron (ở màng trong ti thể)
+&lt;ul&gt;
+&lt;li&gt;NADH và FADH2 chuyển electron vào chuỗi truyền electron&lt;/li&gt;
+&lt;li&gt;Quá trình truyền electron tạo ra bơm proton qua màng, tạo gradient proton để tổng hợp ATP&lt;/li&gt;
+&lt;li&gt;Tạo ra khoảng 26-28 ATP và nước
+&lt;ul&gt;
+&lt;li&gt;1 NADH tạo ra 2.5 ATP&lt;/li&gt;
+&lt;li&gt;1 FADH2 tạo ra 1.5 ATP&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Tổng là: 10 NADH, 2 FADH2, &lt;strong&gt;4 ATP&lt;/strong&gt; (duong phan va chu trinh Krebs).&lt;br&gt;
+Tổng ATP: 25 + 3 + 4 = 32 ATP&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
